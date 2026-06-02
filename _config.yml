@@ -27,7 +27,7 @@ repository               : "VaishnaviMudaliar/VaishnaviMudaliar.github.io"
 
 author:
   # Biographic information
-  avatar           : "VLSID.jfif"
+  avatar           : "me.jpg"
   name             : "Vaishnavi Mudaliar"
   pronouns         : "she/her"
   bio              : "Senior Research Fellow working on FPGA-accelerated AI, computational genomics, and hardware-aware machine learning systems."
